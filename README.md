@@ -14,7 +14,7 @@ An experienced and driven professional with expertise in graphic design, 3D mode
 - Microsoft Office Suite
 
 **Education:**
-Santa Fe College Dual enrollment Student for Cyber Security / IT
+Currently attending: Santa Fe College Dual enrollment Student for Cyber Security / IT
 
 **Certifications:**
 - Unity Certified Developer
