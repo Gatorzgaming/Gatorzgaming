@@ -14,7 +14,7 @@ An experienced and driven professional with expertise in graphic design, 3D mode
 - Microsoft Office Suite
 
 **Education:**
-Currently attending a game development 4 year CTE course at my High School, with plans to (hopefully) go to Ringling College of Art and Design or UF in 2025
+Santa Fe College Dual enrollment Student for Cyber Security / IT
 
 **Certifications:**
 - Unity Certified Developer
