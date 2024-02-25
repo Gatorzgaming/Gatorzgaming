@@ -1,3 +1,7 @@
+
+Redoing this soonTM
+
+
 **Gatorz**
 
 **Graphic Designer | 3D Modeling | Game Design**
@@ -22,11 +26,3 @@ Currently attending: Santa Fe College Dual enrollment Student for Cyber Security
 - Adobe Photoshop Certified
 - Adobe Illustrator Certified
 - Microsoft Office Specialist (Word, Excel, PowerPoint)
-
-
-**Personal Interests:**
-I have a real passion for game development and creativity. During my free time, I immerse myself in the exciting world of creating game mods. There's something incredibly fulfilling about crafting new experiences and enhancing gameplay for fellow gamers.
-
-In addition to my love for game development, I enjoy discovering talented artists from various genres, as music acts as a great source of inspiration for my work.
-
-My journey in the realm of game design is not only a profession but a personal adventure that keeps me curious, motivated, and constantly evolving.
