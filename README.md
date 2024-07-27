@@ -1,5 +1,5 @@
 
-Redoing this soonTM
+#Redoing this soonTM
 
 
 **Gatorz**
@@ -17,10 +17,10 @@ An experienced and driven professional with expertise in graphic design, 3D mode
 - Adobe Creative Suite (Photoshop, Illustrator)
 - Microsoft Office Suite
 
-**Education:**
+## **Education:**
 Currently attending: Santa Fe College Dual enrollment Student for Cyber Security / IT
 
-**Certifications:**
+## **Certifications:**
 ### Microsoft Office Specialist
 - Microsoft Excel (Office 2016)
 - Microsoft PowerPoint (Office 2016)
