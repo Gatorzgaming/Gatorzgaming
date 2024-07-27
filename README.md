@@ -1,5 +1,5 @@
 
-#Redoing this soonTM
+# Redoing this soonTM
 
 This entire thing is a mess, and needs to be redone. The only thing up to date is Education and Certs. The summary isn't acurate atp. 
 
