@@ -21,19 +21,19 @@ An experienced and driven professional with expertise in graphic design, 3D mode
 Currently attending: Santa Fe College Dual enrollment Student for Cyber Security / IT
 
 **Certifications:**
-# IC3 Digital Literacy Certification
+## IC3 Digital Literacy Certification
 - IC3 GS5 Spark
-# Microsoft Office Specialist
+## Microsoft Office Specialist
 - Microsoft Excel (Office 2016)
 - Microsoft PowerPoint (Office 2016)
 - Microsoft Word (Office 2016)
-# Adobe Certified Professional
+## Adobe Certified Professional
 - Graphic Design & Illustration Using Adobe Illustrator (Noncurrent as of 5/29/2023)
 - Visual Design (Noncurrent as of 11/21/2022)
 - Visual Design using Adobe Photoshop CC 2018 (Noncurrent as of 11/21/2022)
-# Information Technology Specialist
+## Information Technology Specialist
 - Information Technology Specialist in Device Configuration and Management
 - Information Technology Specialist in JavaScript
-# Unity Certified User
+## Unity Certified User
 - Unity Certified User: Programmer
 - Unity Certified User: VR Developer
