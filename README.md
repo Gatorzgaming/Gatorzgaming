@@ -4,19 +4,12 @@
 This entire thing is a mess, and needs to be redone. The only thing up to date is Education and Certs. The summary isn't acurate atp. 
 
 **Gatorz**
+Cyber Security Student, VR enthusiast and part-time Florida Man
 
-**Graphic Designer | 3D Modeling | Game Design**
+サイバーセキュリティの学生、VR 愛好家、パートタイムのフロリダ男性
 
-**Summary:**
-An experienced and driven professional with expertise in graphic design, 3D modeling, and game design. Skilled in utilizing tools such as **Maya** and **Unity**, with a focus on model rigging. Passionate about virtual reality (**VR**) A dedicated learner currently enrolled in a 4-year game design program, certified in **Unity**, **Unity VR Specialist**, **Photoshop**, **Adobe Illustrator**, and Microsoft Office applications. Capable of managing multiple projects while balancing academic pursuits and real-life commitments.
 
-**Skills:**
-- Graphic Design
-- 3D Modeling (Maya)
-- Game Design (Unity)
-- Virtual Reality (VR) Enthusiast
-- Adobe Creative Suite (Photoshop, Illustrator)
-- Microsoft Office Suite
+Hack the Planet!   |   惑星をハックする
 
 ## **Education:**
 Currently attending: Santa Fe College Dual enrollment Student for Cyber Security / IT
